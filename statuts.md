@@ -1,114 +1,172 @@
-# STATUTS DE L’ASSOCIATION EFREI SPORT CLIMBING
+# STATUTS Efrei Sport Climbing Dite « ESC »
 
-# Article 1
-Il a été fondé entre les adhérents aux présents statuts une association, régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre :
+# TITRE I- INTITULE, OBJET SOCIAL, SIEGE SOCIAL, DUREE, AFFILIATION
 
-« EFREI Sport Climbing » (ESC)
+## ARTICLE 1 - Intitulé de l'association et cadre juridique
+Il est fondé entre les adhérents aux présents statuts, une Association sans but lucratif, régie par les dispositions de la loi du 1er Juillet 1901 et le décret d'application du 16 août 1901, ayant pour titre: «EFREI Sport Climbing », dite «ESC ».
 
-La durée de vie de cette association est illimitée.
+## ARTICLE 2 - Objet social
+Efrei Sport Climbing a pour objet d'organiser la pratique sportive de l'escalade pour les étudiants du groupe EFREl et de développer l'information et la formation de ses membres.
 
-# Article 2 : Objet
-Cette association a pour but la pratique de l’escalade pour les étudiants du Groupe Efrei.
+Elle déploie ses efforts sur la promotion et le développement de l'escalade sportives compétitives et de loisirs.
 
-# Article 3 : Siège social
-Le siège social est fixé au 30-32, avenue de la République, 94800 Villejuif
+Efrei Sport Climbing et ses adhérents s'interdisent tout prosélytisme politique, religieux ou autre.
 
-# Article 4 : Composition
-L’association se compose de :
-- Membres d’honneur ;
-- Membres actifs ;
-- Membres fondateurs ;
-- Membres bienfaiteurs.
+Elle agit dans le respect des valeurs morales et humaines propres à créer au sein de l'association solidarité et convivialité.
+L'association s'interdit toute forme de discrimination dans sa vie et son organisation.
 
-# Article 5 : Cotisation
-Le montant de la cotisation annuelle est fixé par le Bureau à chaque Assemblée Générale Ordinaire. La cotisation doit être versée par tout membre actif. Elle est valable pendant une année scolaire, c’est à dire du 1er septembre au 31 août de l’année suivante.
+## ARTICLE 3 - Siège social
 
-# Article 6 : Autres frais
-Chaque membre pourra être amené à s’acquitter d’une contribution pour participer à une activité.
+Le siège social est fixé à 30-32 Avenue de la République, 94800 Villejuif. Il pourra être transféré par simple décision du Bureau restreint. La ratification par l'Assemblée Générale est nécessaire.
 
-# Article 7 : Admission
-Pour être membre actif, il faut être étudiant du Groupe Efrei, s’être acquitté de la cotisation annuelle, et remplir une fiche d’inscription, qui devra être signée par un membre du Bureau.
+## ARTICLE 4 - Durée
+La durée de l'Association est illimitée.
 
-# Article 8 : Les membres
-Sont membres d’honneurs ceux qui ont rendu des services signalés à l’association ; ils sont dispensés de cotisations. Ils sont désignés par le Conseil d’Administration. 
+# TITRE II - ADMISSION, COMPOSITION, DEMISSION, RADIATION
 
-Sont membres bienfaiteurs les personnes qui versent un droit d’entrée libre et une cotisation annuelle fixée chaque année par le bureau.
+## ARTICLE 5 - Admission
+Pour faire partie intégrante de l'association, il faut adhérer aux présents statuts ainsi qu'au règlement intérieur et s'acquitter d'une cotisation annuelle comprenant l'adhésion à Efrei Sport Climbing. Le Bureau restreint peut refuser des adhésions avec avis motivés aux intéressés.
 
-Sont membres fondateurs les membres ayant participé à la création de l’association dont les noms suivent :
-- Paul DAUBIAN
-- Thomas PFLIEGER
-- Hadrien FORNARA
-- Florian LAVAUD
+## ARTICLE 6 - Composition
+L'association se compose :
+- De membres de droit :
+  - Le chef d'établissement,
+- De membres adhérents actifs :
+  - Les étudiants inscrits dans l'établissement et les membres du personnel de
+l'établissement étant en règle vis-à-vis de la cotisation dont le montant est fixé par l'Assemblée Générale.
+- De membres honoraires :
+  - Les anciens personnels enseignants ou administratif et les anciens étudiants dès lors qu'ils s'acquittent de leur cotisation ainsi qu'aux personnes physiques ou morales qui rendent ou qui ont rendu des services signalés à l'association sur décision du Bureau restreint.
 
-# Article 9 : Radiation
-La qualité de membre se perd par :
-- La démission ;
-- Le décès ;
-- La radiation prononcée par le Conseil d’Administration pour motif grave, l’intéressé ayant été invité à se présenter devant le Conseil pour fournir des explications ;
-- La radiation prononcée par le Bureau pour le non paiement de la cotisation annuelle, l’intéressé ayant été prévenu deux semaines à l’avance.
+## ARTICLE 7 - Démission et Radiation
+La qualité de membre de Efrei Sport Climbing se perd :
+- Par démission écrite adressée au Président,
+- Par décès,
+- Pour non-paiement de l'adhésion 15 jours après une relance par courrier,
+- Par radiation pour faute grave sur décision du Bureau restreint notifiée par lettre recommandée avec accusé-réception. Préalablement, l'adhérent aura été convoqué par lettre recommandée avec avis de réception adressée quinze jours au moins avant la réunion du Bureau restreint qui, réuni à cet effet, statue au scrutin secret après avoir entendu l'adhérent qui peut se faire assister par une personne de son choix membre de l'association,
 
-# Article 10 : Ressources
-Les ressources de l’association comprennent :
-- Le montant des droits d’entrées et des cotisations ;
-- Les subventions de l’état, des départements et des communes ;
-- Le mécénat ;
-- Les autres ressources autorisées par les textes législatifs et réglementaires.
+Tout adhérent radié ne peut à nouveau entrer dans l'association qu'après accord du Bureau restreint.
 
-# Article 11 : Conseil d’Administration
-L’association est dirigée par un conseil d’au moins 3 membres élus pour une année par l’Assemblée Générale. Les membres du Conseil sont rééligibles.
+# TITRE III - ADMINISTRATION - FONCTIONNEMENT
 
-Les membres fondateurs sont membres du Conseil à vie, ainsi que les présidents sortants lors des Assemblées Générales, sur décision majoritaire de l’Assemblée (sauf radiation, voir article 9).
+## ARTICLE 8 - Instances de l'association
+Efrei Sport Climbing est administrée et dirigée par :
+- L'Assemblée Générale 
+- Le Président
+- Le Bureau restreint
+- Le Bureau étendu
 
-Le conseil d’administration est composé au minimum du bureau composé de :
-- Un président ;
-- Un trésorier ;
-- Un secrétaire.
+## ARTICLE 9 - L'Assemblée Générale
 
-De plus, le bureau pourra comporter un Vice-président, qui aura pour rôle d’assister le Président dans sa tâche, et de lui suppléer en cas de besoin.
-En cas de postes vacants, le Conseil pourvoit provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif par la prochaine Assemblée Générale, leurs pouvoirs prenant fin à l’époque où devrait normalement expirer le mandat des membres remplacés.
+### 9.1 - Composition de l'Assemblée Générale
+L'Assemblée Générale est composée des membres de droit et de tout membre à jour de ses cotisations.
+Tous les membres ayant une ancienneté de plus de 4 mois au sein de l'association ont voix délibérative.
 
-Le Conseil est composé lors de la fondation par les membres fondateurs. Peuvent se porter candidats à l’entrée dans le Conseil tous membres actifs de l’association (y compris membres d’honneurs, bienfaiteurs, fondateurs). Dans ce cas, ils doivent se déclarer candidats au moins deux semaines avant l’élection, qui a lieu lors des Assemblées Générales.
+Assistent avec voix consultative, aux réunions de l'Assemblée Générale : 
+- Toutes personnes dont la présence est jugée utile par le Président.
 
-# Article 12 : Réunion du Conseil d’Administration
-Le Conseil d’Administration se réunit au moins deux fois par an, sur convocation du président ou sur demande de la majorité de ses membres.
+### 9.2 - Fonctionnement de l'Assemblée Générale
+Elle est convoquée par le Président de l'Association au moins une fois par an. En outre, elle se réunit chaque fois qu'elle est convoquée par le Bureau restreint ou sur la demande du tiers au moins de ses membres.
 
-Les décisions sont prises à la majorité absolue des voix des membres présents.
+La convocation est adressée par mail au moins quinze jours avant la date fixée pourla tenue de l'Assemblée Générale. L'ordre du jour est indiqué sur la convocation.
 
-Tout membre du conseil qui, sans excuses, n’aura pas assisté à trois réunions consécutives pourra être considéré comme démissionnaire.
+L'Assemblée Générale est présidée par le Président de l'association, assisté des membres du Bureau restreint.
 
-Le secrétaire ou son remplaçant désigné doit dresser un procès-verbal de chaque réunion.
+Il est tenu un procès-verbal à chaque réunion de l'Assemblée Générale.
 
-# Article 13 : Pouvoirs du Conseil d’Administration
-Le Conseil d’Administration est doté des pouvoirs les plus étendus pour assurer sa mission de gestion et d’administration de l’association en toute circonstance, à l’exception de ceux statutairement réservés à l’Assemblée Générale.
-Il peut faire toute délégation de pouvoirs pour une question déterminée et un temps limité.
+### 9.3 - Rôle de l'Assemblée Générale 
+L'Assemblée Générale en session ordinaire :
+- Approuve le rapport moral et financier préparé par le Président et le Bureau restreint, Approuve les comptes de l'exercice clos,
+- Vote le budget prévisionnel,
+- Définit les orientations des activités de l'Association,
+- Adopte le règlement intérieur, sur proposition du Bureau restreint,
+- Élit les membres du Bureau restreint dans les conditions fixées à l'article 11.
 
-Le président et le trésorier ont procuration sur le compte en banque, et peuvent agir sur celui-ci au nom de l’association.
+L'Assemblée Générale en session extraordinaire se prononce sur la dissolution l'association.
+En outre, elle peut être convoquée sur un ordre du jour précis, soit à l'initiative du Président, soit sur demande écrite au Président de l'Association d'au moins la moitié des membres du Bureau restreint ou d'au moins les deux tiers des membres de l'association. 
 
-# Article 14 : Assemblée Générale Ordinaire
-L’Assemblée Générale ordinaire comprend tous les membres de l’association et se réunit chaque année.
+## ARTICLE 10 - Le Bureau restreint
 
-Quinze jours au moins avant la date fixée, les membres sont convoqués par courrier électronique par
-le Bureau. L’ordre du jour est indiqué sur les convocations.
+### 10.1 - Composition et fonctionnement
+Le Bureau restreint se compose :
+- Du Président de l'association,
+- Du Secrétaire Général, 
+- Du Trésorier,
+- Éventuellement vice-président, trésorier adjoint et secrétaire adjoint.
 
-Le président, assisté des membres du Bureau, préside l’Assemblée et expose la situation morale de l’association et soumet le bilan à l’approbation de l’Assemblée.
+La durée du mandat des membres du Bureau restreint est de 1 an, renouvelable. Ils prennent leurs fonctions à l'issue de l'Assemblée Générale les ayant élus.
+Chaque candidat à l'élection à l'un des postes, doit adresser sa candidature au Président de l'association.
 
-Le trésorier rend compte de sa gestion et soumet le bilan à l’approbation de l’Assemblée. Il est procédé après épuisement de l’ordre du jour au remplacement poste par poste des membres sortants du Conseil.
+Ne peuvent être élues :
+- Les personnes de nationalité française condamnées à une peine qui fait obstacle à leur inscription sur les listes électorales,
+- Les personnes de nationalité étrangère condamnées à une peine qui, lorsqu'elle est prononcée contre un citoyen français, fait obstacle à son inscription sur les listes électorales,
+- Les personnes à l'encontre desquelles a été prononcée une sanction d'inéligibilité à temps, notamment pour manquement grave aux règles techniques du jeu constituant une infraction à l'esprit sportif.
 
-Ne doivent être traitées, lors de l’Assemblée Générale que les questions soumises à l’ordre du jour.
+En cas de vacances d'un poste, le Bureau restreint pourvoit provisoirement à son remplacement et propose la ratification à la prochaine Assemblée Générale. Le mandat du remplaçant prend fin au terme du mandat initial.
+Le Président préside le Bureau restreint.
+Le Bureau restreint se réunit au moins au moins une fois par semestre sur convocation du Président de l'Association ou à la demande expresse d'au moins un quart de ses membres.
 
-Ont le droit de vote les membres actifs depuis plus de 4 mois et les membres d’honneurs.
+Les convocations adressées par mail doivent parvenir au moins sept jours avant la date de la réunion.
 
-Chaque décision doit être prise à la majorité des voix.
+Le Trésorier et son adjoint éventuel tiennent le livre des comptes de l'Association et sont responsables avec le Président des fonds de l'Association. Il appose sa signature surt o u t ordre de paiement et établit à la demande du Président un point sur l'exécution comptable de l'exercice en cours. Il transmet à l'agent comptable du ou des établissements de rattachement le compte des résultats.
+Le Secrétaire Général et son adjoint éventuel sont chargés de l'envoi des convocations, de la rédaction des procès-verbaux et de la correspondance de l'Association.
 
-En cas de conflit, c’est le président qui prend la décision finale.
+Tout membre qui se désintéresserait notoirement de l'association en n'assistant pas aux réunions d'instances, peut, après trois absences consécutives non justifiées, être considéré comme démissionnaire si les deux tiers du Bureau restreint se prononcent dans ce sens.
+Dans ce cas, il est pourvu à son remplacement au cours de l'Assemblée Générale suivante, pour la durée du mandat concerné.
 
-# Article 15 : Assemblée Générale Extraordinaire
-Si besoin est, ou à la demande de la moitié plus un des membres actifs, le président peut convoquer une assemblée générale extraordinaire, suivant les modalités prévues par l’article 14.
+Le Bureau restreint ne peut délibérer que si le tiers de ses membres est présent ou représenté. Les décisions sont prises à la majorité des suffrages exprimés. En cas de partage, la voix du Président est prépondérante. Chaque membre ne peut porter plus de deux pouvoirs.
 
-# Article 16 : Règlement intérieur
-Un règlement intérieur est établi par le Conseil d'Administration. 
+Un procès-verbal est établi à chaque réunion.
 
-Ce règlement est destiné à fixer les divers points non prévus par les statuts, pouvant avoir trait à l’administration et au fonctionnement de l’association.
+### 10.2 - Rôle et compétences du Bureau restreint
+Le Bureau restreint :
+- Prépare et soumet au vote de l'Assemblée Générale le règlement intérieur, 
+- Prépare et soumet au vote de l'Assemblée Générale le budget prévisionnel,
+- Tranche les litiges pouvant s'élever entre les membres de l'association et prend les mesures nécessaires en cas de non-respect du règlement intérieur,
+- Adopte toutes les délibérations nécessaires au bon fonctionnement de Efrei Sport Climbing.
 
-# Article 17 : Dissolution
-En cas de dissolution prononcée par les deux tiers au moins des membres présents à l’Assemblée Générale, un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu est dévolu conformément à l’article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.
+## ARTICLE 11 - Le Président
+Le Président est élu pour une durée de 1 an, par l'Assemblée Générale, parmi ses membres, au scrutin majoritaire, à bulletin secret.
+Le Président de Efrei Sport Climbinq représente l'association dans tous les actes de la vie civile. Il a pour mission de coordonner les activités de l'association, de représenter celle-ci en justice et auprès de tous les organismes, publics ou privés, universitaires ou extra universitaires, et de signer tous les actes nécessaires.
+Il convoque le Bureau étendu, le Bureau restreint et l'Assemblée Générale dont il établit les ordres du jour. D'une façon générale, il administre l'association et prend toutes les mesures qui ne nécessitent pas la réunion du Bureau. Pour tout ou partie de ces missions, il peut donner délégation à un membre du Bureau Restreint autre que le Trésorier.
+
+## ARTICLE 12 - Le Bureau étendu
+Le bureau est composé des membres du Bureau restreint ainsi que des différents responsables de l'association.
+Ces fonctions doivent être assurées par un étudiant.
+
+# TITRE IV -DISPOSITIONS GENERALES
+
+## ARTICLE 13 - Les ressources de l'Association et gestion
+Les ressources de l'Association comprennent :
+- Les montants des cotisations,
+- Les subventions publiques (Etat, collectivités territoriales...),
+- Les subventions privées (dons, legs et parrainages),
+- Les moyens mis à disposition par le ou les établissements de rattachement,
+- Toute autre ressource autorisée par les lois et règlements en vigueur.
+
+Il est tenu une comptabilité complète au jour le jour de toutes les recettes et dépenses.
+Le budget est adopté par le Bureau restreint avant le début de l'exercice comptable.
+Tout contrat ou convention passé entre l'Association d'une part, et un membre du Bureau restreint, son conjoint ou un proche, d'autre part, est soumis pour autorisation au Bureau restreint et présenté pour information à la plus prochaine Assemblée Générale.
+
+## ARTICLE 14- Délégation
+Chaque membre du Bureau restreint ou adhérent peut être chargé de fonctions spéciales ou missions dans l'intérêt du bon fonctionnement et la prospérité de l'Association.
+
+## ARTICLE 15 - Modification des statuts
+Les statuts ne peuvent être modifiés que par l'Assemblée Générale, sur proposition du Bureau restreint, du Président de l'Association, ou du tiers des membres de l'Association.
+Dans tous les cas, la convocation accompagnée d'un ordre du jourmentionnant les propositions de modifications est adressée par mail aux membres 15 jours au moins avant la date fixée pour la réunion de l'assemblée.
+Les statuts ne peuvent être modifiés qu'à la majorité de la moitié des membres présents ou représentés. Si cette proportion n'est pas atteinte, l'Assemblée Générale est convoquée à nouveau à 15 jours d'intervalle au moins.
+
+## ARTICLE 16- Règlement intérieur
+Les règlements intérieurs et leurs éventuelles modifications sont préparés par le Bureau restreint et adoptés par l'Assemblée Générale.
+
+## ARTICLE 17: Documents administratifs
+Le Président (ou les commissaires chargés de la liquidation des biens, en cas de dissolution) devra faire connaître dans les plus brefs délais, à le ou les établissements de rattachement, à la Lique Régionale du Sport Universitaire de rattachement et à la Préfecture, tous les changements survenus dans l'administration de l'Association.
+
+Les registres de l'Association et les pièces de comptabilité seront présentés sans déplacement sur toutes les réquisitions aux représentants de l'administration.
+
+## ARTICLE 18 - Dissolution - Liquidation
+La dissolution de l'Association ne peut être prononcée que par l'Assemblée Générale.
+Elle se prononce dans les mêmes conditions que celles prévues à l'article 16.
+En cas de dissolution, l'Assemblée Générale désigne un ou plusieurs membres chargés de la liquidation des biens de l'Association.
+L'éventuel actif net de l'Association sera transféré à l'Association qui lui succéderait ou, à défaut, conformément à la loi, à une ou plusieurs associations poursuivant les mêmes buts. En aucun cas, les membres de l'Association ne peuvent se voir attribuer, en dehors de la reprise de leurs apports, une part quelconque des biens de l'Association.
+
+Les présents statuts sont adoptés en Assemblée Générale le dimanche 12 mars 2023, à Villejuifs.
